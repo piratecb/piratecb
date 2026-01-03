@@ -11,7 +11,7 @@
 ### 🧑‍💻 About Me
 
 - 🖥️ **Server maintainer** supporting open source projects & self-hosting solutions
-- 📍 Based at `127.0.0.1` (aka home sweet home 🏠)
+- 📍 Based at Europe
 - 💼 **Open to opportunities** – I'm hireable! 
 - 🌱 Always learning and exploring new technologies
 
