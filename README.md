@@ -60,9 +60,3 @@ all running on a Lenovo ThinkCentre M900 Tiny · Debian · Docker
 > *still building things worth sharing publicly — check back soon*
 
 ---
-
-<div align="center">
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=piratecb&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff)](https://github.com/piratecb)
-
-</div>
