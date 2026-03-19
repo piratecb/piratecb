@@ -1,60 +1,68 @@
-<h1 align="center">Hey there!  👋 I'm Bernardo Carvalheiro</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/piratecb">
-    <img src="https://readme-typing-svg.herokuapp. com? font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Server+Maintainer+%F0%9F%96%A5%EF%B8%8F;Open+Source+Enthusiast+%F0%9F%8C%90;Self-Hosting+Advocate+%F0%9F%8F%A0" alt="Typing SVG" />
-  </a>
-</p>
+# hey, I'm Bernardo 👋
 
----
+**CS student · homelab tinkerer · making things work**
 
-### 🧑‍💻 About Me
+Portugal 🇵🇹
 
-- 🖥️ **Server maintainer** supporting open source projects & self-hosting solutions
-- 📍 Based at Europe
-- 💼 **Open to opportunities** – I'm hireable! 
-- 🌱 Always learning and exploring new technologies
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### about me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-</p>
+I'm a computer science student based in Portugal, currently doing an internship. I spend most of my time breaking and fixing servers, self-hosting stuff I probably don't need, and occasionally writing code.
+
+When I'm not in front of a screen I'm usually near a motorcycle.
 
 ---
 
-### 📊 GitHub Stats
+### tech I work with
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piratecb&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-</p>
+**infrastructure & self-hosting**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp. com/? user=piratecb&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
+![Debian](https://img.shields.io/badge/Debian-0d1117?style=flat-square&logo=debian&logoColor=A81D33)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
+![Tailscale](https://img.shields.io/badge/Tailscale-0d1117?style=flat-square&logo=tailscale&logoColor=ffffff)
+![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=009639)
+
+**dev**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+
+**currently learning / using**
+
+![Fusion 360](https://img.shields.io/badge/Fusion_360-0d1117?style=flat-square&logo=autodesk&logoColor=FF6C00)
+![n8n](https://img.shields.io/badge/n8n-0d1117?style=flat-square&logo=n8n&logoColor=EA4B71)
 
 ---
 
-### 🌐 Connect with Me
+### what's running on my homelab
 
-<p align="center">
-  <a href="https://github.com/piratecb">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+| service | what it does |
+|---|---|
+| **Nextcloud** | personal cloud storage |
+| **Jellyfin** | media server |
+| **n8n** | workflow automation |
+| **Netdata** | system monitoring |
+| **Uptime Kuma** | service uptime tracking |
+
+all running on a Lenovo ThinkCentre M900 Tiny · Debian · Docker
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=piratecb&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
+### projects
 
-<p align="center">
-  <i>⭐ Feel free to explore my repos and star anything you find useful!</i>
-</p>
+> *still building things worth sharing publicly — check back soon*
+
+---
+
+<div align="center">
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=piratecb&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff)](https://github.com/piratecb)
+
+</div>
